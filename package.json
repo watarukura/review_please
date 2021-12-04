@@ -1,0 +1,19 @@
+{
+  "name": "review_please",
+  "version": "1.0.0",
+  "description": "",
+  "main": "review_please.js",
+  "scripts": {
+    "generate": "bookmarkletify --input review_please.js > review_please.bookmarklet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watarukura/review_please.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/watarukura/review_please#readme",
+  "dependencies": {
+    "@neos21/bookmarkletify": "^0.0.3"
+  }
+}
